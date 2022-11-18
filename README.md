@@ -2,7 +2,7 @@
 
 ## Meu nome é Jeremias Dourado, mas pode me chamar de Jere. :grin:
 
-### Sou pesquisador em matemática e programador em python com ênfase em ciencia de dados.
+### Sou pesquisador em matemática e programador em python com ênfase em ciência de dados.
 
 Antes de falar sobre mim, deixe me apresentar uma formula matemática que é uma obra de arte! É conhecinda por Identidade de Euler!
 
@@ -63,7 +63,7 @@ e^{i\pi} + 1 & = & \cos(\pi) + i\sin(\pi) + 1\\
 
 ### Mais sobre mim, acesse:
 
-- <a href="https://www.linkedin.com/in/jeremiasdourado/" target="_blank" >Linkedin</a>
-- <a href="https://www.facebook.com/JeremiasDourado/" target="_blank" >Facebook</a>
-- <a href="https://www.instagram.com/jeremiasdourado/" target="_blank" >Instagran</a>
-- <a href="https://twitter.com/jeremiasdourado" target="_blank" >Instagran</a>
+- <a href="https://www.linkedin.com/in/jeremiasdourado/" target="_blank" rel="noopener noreferrer" >Linkedin</a>
+- <a href="https://www.facebook.com/JeremiasDourado/" target="_blank" rel="noopener noreferrer" >Facebook</a>
+- <a href="https://www.instagram.com/jeremiasdourado/" target="_blank" rel="noopener noreferrer" >Instagran</a>
+- <a href="https://twitter.com/jeremiasdourado" target="_blank" rel="noopener noreferrer" >Twitter</a>
