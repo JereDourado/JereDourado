@@ -35,7 +35,7 @@ e^{i\pi} + 1 & = & \cos(\pi) + i\sin(\pi) + 1\\
 
 - #### Sou Mestre em Matemática pela Universidade Federal de Uberlândia - UFU, com dissertação em Sistemas Dinâmicos, uma pesquisa sobre o comportamento de sistemas caóticos sobre variedades diferenciáveis. Foi publicada com o título Consequências da Hiperbolicidade na Dinâmica das Funções, para ler na íntegra <a href="https://repositorio.ufu.br/handle/123456789/28953" target="_blank" >clique aqui</a>.
 
-- #### Atualmente estudo de forma autodidata programação, aprofundando os conhecimentos que obtive durante a graduação e o mestrado.
+- #### Atualmente sou Cientista de Dados no <a href="https://banco.bradesco/html/classic/index.shtm" target="_blank" >Banco Bradesco</a> e estudo de forma autodidata programação e engenharia de dados, aprofundando os conhecimentos que obtive durante a graduação e o mestrado.
 
 
 ### Tenho conhecimentos avançados em:
@@ -46,14 +46,16 @@ e^{i\pi} + 1 & = & \cos(\pi) + i\sin(\pi) + 1\\
 - Data Schience
 - Matlab
 - LaTex
+- SQL
 
 
 ### Tenho conhecimentos intermediário em:
 - AWS
-- SQL
 - Googe Cloud
 - Git
 - Linux
+- BitBucket
+- Power BI
 
 
 ### Tecnologias e ferramentas que uso:
