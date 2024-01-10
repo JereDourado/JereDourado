@@ -1,4 +1,4 @@
-# Olá, Bem Vindes ao meu GitHub!
+# Olá, Bem Vindos ao meu GitHub!
 
 ## Meu nome é Jeremias Dourado, mas pode me chamar de Jere. :grin:
 
